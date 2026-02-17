@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Saints And Sinners",
+  "base_artist": "Godsmack",
+  "createdAt": "2026-02-17T15:07:27.573452Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Saints and Sinners",
+      "artist": "Arch Enemy",
+      "has_synced": true,
+      "path": "select/01_Saints_and_Sinners_Arch_Enemy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Saints And Sinners",
+      "artist": "Godsmack",
+      "has_synced": true,
+      "path": "select/02_Saints_And_Sinners_Godsmack.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Saints and Sinners (Acoustic Version)",
+      "artist": "Silent Force",
+      "has_synced": false,
+      "path": "select/03_Saints_and_Sinners_(Acoustic_Version)_Silent_Force.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Saints And Sinners",
+      "artist": "Godsmack",
+      "has_synced": true,
+      "path": "select/04_Saints_And_Sinners_Godsmack.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Saints And Sinners",
+      "artist": "Harem Scarem",
+      "has_synced": false,
+      "path": "select/05_Saints_And_Sinners_Harem_Scarem.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Saints and Sinners",
+      "artist": "Silent Force",
+      "has_synced": true,
+      "path": "select/06_Saints_and_Sinners_Silent_Force.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Saints and Sinners",
+      "artist": "The Defiled",
+      "has_synced": true,
+      "path": "select/07_Saints_and_Sinners_The_Defiled.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Saints and Sinners",
+      "artist": "Informatik",
+      "has_synced": true,
+      "path": "select/08_Saints_and_Sinners_Informatik.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "SAINTS AND SINNERS",
+      "artist": "Sewerperson feat. splashgvng",
+      "has_synced": true,
+      "path": "select/09_SAINTS_AND_SINNERS_Sewerperson_feat._splashgvng.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "SAINTS AND SINNERS",
+      "artist": "Sewerperson",
+      "has_synced": true,
+      "path": "select/10_SAINTS_AND_SINNERS_Sewerperson.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Saints and Sinners",
+      "artist": "The Irish Rovers",
+      "has_synced": true,
+      "path": "select/11_Saints_and_Sinners_The_Irish_Rovers.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Saints and Sinners (HisStory)",
+      "artist": "Lovehatehero",
+      "has_synced": true,
+      "path": "select/12_Saints_and_Sinners_(HisStory)_Lovehatehero.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Saints And Sinners (Album Version)",
+      "artist": "Godsmack",
+      "has_synced": true,
+      "path": "select/13_Saints_And_Sinners_(Album_Version)_Godsmack.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Saints and Sinners",
+      "artist": "I Am Empire",
+      "has_synced": true,
+      "path": "select/14_Saints_and_Sinners_I_Am_Empire.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Saints And Sinners (Acoustic Version) (Bonus Track)",
+      "artist": "Silent Force",
+      "has_synced": false,
+      "path": "select/15_Saints_And_Sinners_(Acoustic_Version)_(Bonus_Track)_Silent_Force.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Saints and Sinners",
+      "artist": "Liferuiner",
+      "has_synced": true,
+      "path": "select/16_Saints_and_Sinners_Liferuiner.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Saints And Sinners",
+      "artist": "Young Dubliners",
+      "has_synced": true,
+      "path": "select/17_Saints_And_Sinners_Young_Dubliners.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Saints and Sinners (His Story)",
+      "artist": "LoveHateHero",
+      "has_synced": true,
+      "path": "select/18_Saints_and_Sinners_(His_Story)_LoveHateHero.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Saints And Sinners",
+      "artist": "Godsmack",
+      "has_synced": false,
+      "path": "select/pl_01_Saints_And_Sinners_Godsmack.txt"
+    }
+  ]
+}
